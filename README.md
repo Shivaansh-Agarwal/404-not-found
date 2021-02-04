@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a herf="https://github.com/Shivaansh-Agarwal/DevChallenges.io/tree/main/01%20Responsive-Web/404-not-found-master">Repository</a>
+    <a href="https://github.com/Shivaansh-Agarwal/404-not-found">Repository</a>
     <span> | </span>
     <a href="https://devchallenges.io/solutions/nkzI6vZWPDuQF1RL2sE2">
       Solution
