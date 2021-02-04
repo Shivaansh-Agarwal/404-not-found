@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://shivaansh-agarwal.github.io/DevChallenges.io/01%20Responsive-Web/404-not-found-master/">
+    <a href="https://shivaansh-agarwal.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
